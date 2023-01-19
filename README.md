@@ -1,6 +1,7 @@
-# Calculator
+# Calculator app for flutter application devvelopment
 
-This is an app created for Cal Poly Pomona CS4750 Winter 2023.
+## This is an app created for Cal Poly Pomona CS4750 Winter 2023.
+
 This is a new Flutter simple calculator application using dart math expression solver.
 This is a very simple and straight to the point application that is not really too complex or intricate, but it is still very functional and the best one could create in the timespan given for this project with absolutely no experience in application development.
 
